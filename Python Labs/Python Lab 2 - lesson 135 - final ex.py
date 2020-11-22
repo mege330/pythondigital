@@ -1,3 +1,5 @@
+#תרגיל סיכום לחישובים
+
 print("Now we will calculte your Marketing:\nPrices:\n=============\nTomatos=3 NIS\nCucambers=2 NIS\nCola=5 NIS\nChicken=20 NIS\n")
 tomatos=int(input("Enter how many tomtos?"))
 cucambers=int(input("Enter how many cucambers?"))

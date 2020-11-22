@@ -1,3 +1,5 @@
+#חישוב מתמטי
+
 num=int(input("Enter a number with 4 digit: "))
 
 '''
